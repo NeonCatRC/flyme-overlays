@@ -345,8 +345,8 @@
     <string name="permission_get_accounts">Чтение учетной записи</string>
     <string name="permission_internet">Интернет</string>
     <string name="permission_location">Геолокация</string>
-    <string name="permission_msg_location">Геолокация требует этого разрешения</string>
-    <string name="permission_msg_storage">Изображение требует этого разрешения</string>
+    <string name="permission_msg_location">Геолокация требует это разрешение</string>
+    <string name="permission_msg_storage">Чтобы вставить изображение нужно разрешение</string>
     <string name="permission_phone_state">Доступ к идентификатору телефона</string>
     <string name="permission_reason_accounts">Синхронизация с облаком</string>
     <string name="permission_reason_internet">Обновление данных о праздниках и синхронизация</string>
@@ -369,4 +369,16 @@
     <string name="todo_setting_privacy">Политика конфиденциальности</string>
     <string name="todo_setting_title">Настройки</string>
     <string name="todo_setting_update">Проверить обновления</string>
+    <string name="update_version">Текущая версия %s</string>
+    <string name="tag_color">Цвет</string>
+    <string name="tag_count_limit">Максимальное количество груп 8</string>
+    <string name="tag_edit_title">Название и иконка</string>
+    <string name="submenu_item_home">Дом</string>
+    <string name="submenu_item_picker">Другие</string>
+    <string name="submenu_item_search">Поиск</string>
+    <string name="submenu_item_today">Сегодня</string>
+    <string name="submenu_item_tomorrow">Завтра</string>
+    <string name="todo_subject_hint">Новая задача</string>
+    <string name="shortcut_create">Новая задача</string>
+    <string name="action_grant_permission">Разрешить</string>
 </resources>
