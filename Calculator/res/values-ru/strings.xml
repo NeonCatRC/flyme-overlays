@@ -301,6 +301,7 @@
     <string name="iy">%1$s запрашивает %3$d разрешен. на %2$s</string>
     <string name="iz">%1$s требует %2$s %3$d разрешен.</string>
     <string name="j0">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
+    <string name="j1">Перед использованием приложения необходимо согласиться с %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
     <string name="j2">" Запрос следующих разрешений"</string>
     <string name="j3">Разрешения и заявления</string>
     <string name="j4">Bluetooth</string>
@@ -403,6 +404,10 @@
     <string name="lx">Пенсия</string>
     <string name="lz">Периметр</string>
     <string name="m1">Приложению требуется доступ к сети и местоположению для получения корректной информации о курсах валют и т.д.</string>
+    <string name="m2">Сбор и обновление данных функции конвертера</string>
+    <string name="m3">Доступ к обновлениям приложения</string>
+    <string name="m4">Открыть</string>
+    <string name="m5">Пожалуйста, предоставьте доступ к геолокации</string>
     <string name="m6">Индивидуальный</string>
     <string name="m7">Личный несет 1000</string>
     <string name="m8">Индивидуальный подоходный налог</string>
@@ -456,6 +461,7 @@
     <string name="np">В окне</string>
     <string name="nq">Голосовое управление</string>
     <string name="nr">Площадь</string>
+    <string name="ns">Калькулятор</string>
     <string name="nt">Валюта</string>
     <string name="nu">Ипотечный кредит</string>
     <string name="nw">Длина</string>

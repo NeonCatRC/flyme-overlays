@@ -6,14 +6,15 @@ For(%) - completion percentage
 Start - early state of translation
 n\a- Do not check this
 
-| APP | STATE |
-| ------ | ------ |
-| AlphaMe | n\a |
+| APP | STATE | PURPOUSE |
+| ------ | ------ | ------ |
+| AlarmClock | Full | Time app |
+| AlphaMe | n\a | OneMind thing |
 | AppCenter | n\a |
 | AppSandbox | n\a |
 | Assistant | n\a |
 | Browser | n\a |
-| Calculator | n\a |
+| Calculator | Full |
 | Calendar | n\a |
 | CalendarProvider | n\a |
 | Camera | n\a |
@@ -32,7 +33,7 @@ n\a- Do not check this
 | flyme-res | n\a |
 | framework-res | n\a |
 | HomeTool | n\a |
-| InCallUI | n\a |
+| InCallUI | Full | UI for dialer in call |
 | MediaProvider | n\a |
 | Mms | n\a |
 | Music | n\a |

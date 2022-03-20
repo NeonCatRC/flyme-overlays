@@ -28,4 +28,17 @@
         <item>бесшумный</item>
         <item>никогда</item>
     </string-array>
+    <string-array name="absent_num">
+        <item>Неизвестный номер</item>
+        <item>ABSENTNUMBER</item>
+    </string-array>
+    <string-array name="harmful_mark_for_incoming_caller">
+        <item>Мошенничество</item>
+        <item>Домогательство</item>
+        <item>Мошенничество</item>
+        <item>Домогательство</item>
+        <item>Мошенничество</item>
+        <item>Преследование</item>
+        <item>Домогательство</item>
+    </string-array>
 </resources>
